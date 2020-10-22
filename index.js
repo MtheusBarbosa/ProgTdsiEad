@@ -6,6 +6,6 @@ app.get('/', function(req,res){
 })
 
 app.listen(3000, function(){
-    console.log("Conexão iniciada na prota 3000")
+    console.log("Conexão inicializada")
 })
 
